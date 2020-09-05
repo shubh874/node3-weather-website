@@ -1,5 +1,3 @@
-console.log('Javascript is running from the server side')
-
 
 const form = document.querySelector('form')
 const search = document.querySelector('input')
