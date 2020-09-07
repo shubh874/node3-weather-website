@@ -50,3 +50,9 @@ button{
   background: #888888;
   padding: 8px;
 }
+header a:hover{
+  color: black;
+}
+header a:active{
+  color: black;
+}
